@@ -1,0 +1,43 @@
+
+body {
+margin-left: 12px !important;
+}
+
+.idTabs {
+margin: 0px 0px 0px 0px !important;
+width: 280px !important;
+display: block;
+}
+
+#sidebar-wrapper {
+width: 305px !important;
+}
+
+#sidebar {
+width: 305px !important;
+}
+
+#unique {
+margin-right: 5px !important;
+}
+
+.home-post-wrap2 {
+width: 580px !important;
+}
+
+.commentlist {
+width: 560px !important;
+overflow: hidden;
+}
+
+.commentlist .children li {
+width: 85% !important;
+}
+
+.nav li li {
+width: 240px;	
+}
+
+.nav li ul {
+width: 240px;	
+}

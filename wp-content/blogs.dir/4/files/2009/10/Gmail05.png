@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Soomo Learning — We Innovate So You Can Educate</title>
+<meta name="robots" content="noodp, noydir" />
+<link rel="stylesheet" href="http://soomolearning.com/wp-content/themes/thesis_17/style.css?071510-200040" type="text/css" media="screen, projection" />
+<link rel="stylesheet" href="http://soomolearning.com/wp-content/themes/thesis_17/custom/layout.css?011611-14805" type="text/css" media="screen, projection" />
+<!--[if lte IE 8]><link rel="stylesheet" href="http://soomolearning.com/wp-content/themes/thesis_17/lib/css/ie.css?071510-200040" type="text/css" media="screen, projection" /><![endif]-->
+<link rel="canonical" href="http://soomolearning.com/" />
+<link rel="alternate" type="application/rss+xml" title="Soomo Learning RSS Feed" href="http://soomolearning.com/feed/" />
+<link rel="pingback" href="http://soomolearning.com/xmlrpc.php" />
+<link rel='stylesheet' id='nivoStyleSheet-css'  href='http://soomolearning.com/wp-content/plugins/nivo-slider-light/nivo-slider.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nivoCustomStyleSheet-css'  href='http://soomolearning.com/wp-content/plugins/nivo-slider-light/custom-nivo-slider.css?ver=3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://soomolearning.com/wp-includes/js/l10n.js?ver=20101110'></script>
+<script type='text/javascript' src='http://soomolearning.com/wp-includes/js/jquery/jquery.js?ver=1.4.4'></script>
+<script type='text/javascript' src='http://soomolearning.com/wp-content/plugins/nivo-slider-light/jquery.nivo.slider.pack.js?ver=3.1'></script>
+<script type='text/javascript' src='http://soomolearning.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://soomolearning.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://soomolearning.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Titles' href='http://soomolearning.com/titles/' />
+<script type="text/javascript">
+/* <![CDATA[ */
+	jQuery(document).ready(function($){
+		$(".nivoSlider br").each(function(){ // strip BR elements created by Wordpress
+			$(this).remove();
+		});
+		$('.nivoSlider').nivoSlider({
+			effect:'fade', //Specify sets like: 'random,fold,fade,sliceDown'
+			animSpeed:500, //Slide transition speed
+			pauseTime:3000,
+			startSlide:0, //Set starting Slide (0 index)
+			directionNav:false, //Next & Prev
+			directionNavHide:true, //Only show on hover
+			controlNav:true, //1,2,3...
+			controlNavThumbs:false, //Use thumbnails for Control Nav
+			controlNavThumbsFromRel:false, //Use image rel for thumbs
+			controlNavThumbsSearch: '.jpg', //Replace this with...
+			controlNavThumbsReplace: '_thumb.jpg', //...this in thumb Image src
+			keyboardNav:true, //Use left & right arrows
+			pauseOnHover:true, //Stop animation while hovering
+			manualAdvance:false, //Force manual transitions
+			captionOpacity:0.0, //Universal caption opacity
+			beforeChange: function(){},
+			afterChange: function(){},
+			slideshowEnd: function(){} //Triggers after all slides have been shown
+		});
+	});
+/* ]]> */
+</script>
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+</head>
+<body class="home">
+<div id="container">
+<div id="page">
+<ul class="menu">
+<li class="tab tab-home current"><a href="http://soomolearning.com">Home</a></li>
+<li class="tab tab-1"><a href="http://soomolearning.com/about/" title="About">About</a></li>
+<li class="tab tab-2"><a href="http://soomolearning.com/titles/" title="Titles">Titles</a></li>
+</ul>
+	<div id="header">
+	</div>
+	<div id="content_box" class="no_sidebars">
+		<div id="content">
+
+			<div class="post_box top" id="post-5">
+				<div class="headline_area">
+					<h2></h2>
+				</div>
+				<div class="format_text">
+<p><a onclick="javascript:pageTracker._trackPageview('/downloads/wp-content/uploads/2010/07/shiner_560.jpg');"  href="http://soomolearning.com/wp-content/uploads/2010/07/shiner_560.jpg"><img src="http://soomolearning.com/wp-content/uploads/2010/07/shiner_560.jpg" alt="" title="shiner_560" width="560" height="309" class="aligncenter size-full wp-image-38" /></a></p>
+<table cellspacing="50">
+<tbody>
+<tr valign="top">
+<td width="300">
+<strong>We publish webtexts.</strong><br />
+Far more than a traditional college textbook, webtexts are multimedia, interactive, customizable web native learning environments. Webtexts cost less, are used more and dramatically increase student engagement. To see what we mean, <a onclick="javascript:pageTracker._trackPageview('/outgoing/#');"  href="http://#">browse our titles</a>.
+</td>
+<td width="300">
+<strong>A better way to learn.</strong><br />
+Traditional textbooks are typically looked to for three functions: reference, assignments and excellent introductions to difficult material. How are webtexts different? <a onclick="javascript:pageTracker._trackPageview('/outgoing/#');"  href="http://#">Let me count the ways</a>.
+</td>
+<td width="300">
+<strong>Exactly what you need.</strong><br />
+We only build curriculum in partnership with instructors, departments and schools. If you need great web-based curriculum, let us <a onclick="javascript:pageTracker._trackPageview('/outgoing/#');"  href="http://#">build your dream</a>.
+</td>
+</tr>
+</tbody>
+</table>
+				</div>
+			</div>
+			<div id="comments">
+			</div>
+		</div>
+
+	</div>
+	<div id="footer">
+<script type='text/javascript' id='aptureScript' src='http://www.apture.com/js/apture.js?siteToken=mICQtGg' charset='utf-8'></script><script type="text/javascript">
+var _sf_async_config={uid:4059};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+<!-- tracker added by Ultimate Google Analytics plugin v1.6.0: http://www.oratransplant.nl/uga -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-751667-5");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+	</div>
+</div>
+</div>
+<!--[if lte IE 8]>
+<div id="ie_clear"></div>
+<![endif]-->
+</body>
+</html>

@@ -1,0 +1,72 @@
+/*
+ * Note: Include the nivo-slider.css file that comes
+ * with the main download before including this file.
+ */
+
+#img_slider {
+	float: left;
+	background:transparent url(loading.gif) no-repeat 50% 50%;
+	margin: 10px 0 0 0;
+}
+.nivo-controlNav {
+	position:absolute;
+	left:47%;
+	top:430px;
+}
+
+/****************************************
+Edit Slider Nav on Home Page Here 
+*****************************************/
+/*
+* Note: this section controls the little dots below the slide
+*/
+.slide_nav
+{
+	position:absolute;
+	left:47%;
+	top:465px;
+}
+
+.nivo-controlNav a, .slide_nav a {
+	display:block;
+	width:12px;
+	height:12px;
+	background:url(bullets.png) no-repeat;
+	border:0;
+	margin-right:3px;
+	float:left;
+	margin-right: 10px;
+	text-indent:-9999px;
+}
+
+.slide_nav a
+{
+	float: left;
+	color: transparent;
+}
+
+
+.nivo-controlNav a.active, .slide_nav a.active {
+	background-position:-12px 0;
+	margin-right: 10px;
+}
+
+.nivo-directionNav a {
+	display:block;
+	width:30px;
+	height:30px;
+	background:url(arrows.png) no-repeat;
+	text-indent:-9999px;
+	border:0;
+}
+a.nivo-nextNav {
+	background-position:-30px 0;
+	right:30px;
+	top: 120px;
+	z-index: 0;
+}
+a.nivo-prevNav {
+	left:30px;
+	top: 120px;
+	z-index: 0;
+}

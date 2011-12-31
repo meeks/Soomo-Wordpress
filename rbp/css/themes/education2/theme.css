@@ -1,0 +1,25 @@
+body { background-image: url(bg_main.jpg); }
+
+#meta-bar-wrapper { background-image: url(bg_meta-bar-wrapper.png); }
+
+#user-button a { color: #877800; background-color: #eedc4f; }
+#user-button a span.arrow { background-image: url(bg_arrow.png); }
+#user-button a:hover, #user-button a.active { color: #000; }
+#user-menu { color: #6e8086; background-color: #eedc4f; }
+#user-menu h3 { color: #877800; border-bottom: 1px solid #dfcc34; }
+#user-menu a { color: #000; border-bottom: 1px solid #dfcc34; }
+#user-menu a:hover { color: #000; background-image: url(icon_arrow.png); }
+#user-menu a.current { background-image: url(icon_checkmark-small.png); }
+
+#support a { color: #877800; background-color: #ead73e; }
+#support a:hover{ background-color: #dcc930; }
+
+#utility-bar a { background-color: #a19b8e; }
+#utility-bar a:hover, #utility-bar a:hover span { background-color: #c8c3b8; }
+
+#page { background: #fff url(bg_page.png); }
+
+#content.assignment p#last-saved { background-color: #fff; }
+
+footer { background-color: #eedc4f; }
+footer small { color: #877800; }

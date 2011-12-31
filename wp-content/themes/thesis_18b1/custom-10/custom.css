@@ -1,0 +1,280 @@
+/*
+File:			custom.css
+Description:	Custom styles for Thesis
+
+BASIC USAGE:
+
+If you have enabled the custom stylesheet in the Thesis options panel, the <body> tag 
+will be appended with the "custom" class, like so: <body class="custom">. You can use 
+the "custom" class to override *any* CSS declarations contained in the style.css file.
+
+For example, if you wish to change the default link color to green, you would add the 
+following declarations to this file:
+
+	.custom a, .custom a:visited { color: #090; }	<--- This makes links green
+	.custom a:hover { color: #00f; }	<--- This makes links blue when you mouse over them
+
+WHY THIS WORKS:
+
+By using the "custom" class, you are creating more specific CSS declarations for HTML
+elements. CSS styling is applied through rules of specificity, and because declarations
+prepended with .custom are more specific, they get applied when the page is rendered!
+
+More information about styling your Thesis installation using this file can be found
+in the User's Guide:
+	http://diythemes.com/thesis/rtfm/customizing-thesis-with-customcss/
+*/
+html, body, #container, #page{
+  height: 100%;
+  min-height: 100%;
+  padding-bottom: 0;
+}
+
+body a:hover{
+  color: #000000;
+}
+
+#container{
+  width: 1075px;
+  margin: 0 auto;
+}
+
+#page{
+  background-color: #ffffff;
+  padding: 0;
+  margin: 0 0 0 150px;
+  position: relative;
+  width: 925px;
+  z-index: 5;
+}
+
+#page ul.menu{
+  position: absolute;
+/*  float: left;*/
+  top: 25px;
+  left: -150px;
+  border: none;
+  width: 138px;
+  z-index: 25;
+}
+
+#page ul.menu li{
+  float: left;
+  padding-bottom: 5px;
+  width: 138px;
+}
+
+#page ul.menu li a{
+  font-family: Helvetica, sans-serif;
+  background-color: transparent;
+  font-size: 17px;
+  text-transform: capitalize;
+  padding: 0;
+  letter-spacing: -0.02em;
+  border: none;
+  color: #cdcdcd;
+  padding-left: 10px;
+}
+
+#page ul.menu li.tab-home a{
+  background: url(images/logo-nav.png) no-repeat;
+  width: 138px;
+  height: 138px;
+  border: none;
+  padding: 0 0 50px 0;
+  display: block;
+  text-indent: -9999px;
+  text-transform: capitalize;
+  color: transparent;
+}
+
+#page ul.menu li a:hover, #page ul.menu li.current a, #page ul.menu li.current-parent a{
+  color: #ffffff;
+}
+
+/***** subnav styles */
+#page ul.menu li.current ul.submenu-1, #page ul.menu li.current-parent ul.submenu-1{
+  visibility: visible;
+  left: 0;
+  display: block;
+}
+
+#page ul.menu li ul.submenu{
+  padding: 5px 0 0 10px;
+  border: none;
+  position: relative;
+  display: none;
+/*  margin-bottom: -5px;*/
+  overflow: hidden;
+/*  display: block;*/
+  width: 115px;
+}
+
+#page ul.menu li ul.submenu-1 li{
+  display: block;
+  width: 115px;
+}
+
+#page ul.menu li ul.submenu li a{
+  font-size: 14px;
+  color: #cdcdcd;
+  display: block;
+  width: 115px;
+}
+
+#page ul.menu li ul.submenu-1 li a:hover, #page ul.menu li ul.submenu-1 li.current a,
+#page ul.menu li ul.submenu-1 li.current-parent a{
+  color: #ffffff;
+}
+
+/**** tertiary nav styles*/
+#page ul.submenu-1 li.current-parent ul.submenu-2, #page ul.submenu-1 li.current ul.submenu-2{
+  visibility: visible;
+  left: 0;
+  display: block;
+}
+
+#page ul.submenu-1 li ul.submenu-2 li a{
+  color: #CDCDCD !important;
+  display: block;
+  font-size: 12px;
+  width: 100px;
+}
+
+#page ul.submenu-1 li ul.submenu-2 li a:hover, #page ul.submenu-1 li ul.submenu-2 li.current a,
+#page ul.submenu-1 li ul.submenu-2 li.current-parent a{
+  color: #ffffff !important;
+}
+
+/************************************* header styles */
+#header{
+  background-color: #FFFFFF;
+/*  margin: 0 0 0 150px;*/
+  position: relative;
+  padding: 0;
+  z-index: 5;
+  width: 925px;
+}
+
+#header .breadcrumbs{
+  width: 825px;
+  border-bottom: 3pt double #c8c8c8;  
+  position: relative;
+  margin: 0 auto;
+  padding-top: 35px;
+  height: 110px;
+}
+
+#header .breadcrumbs ul.crumbs li{
+  list-style: none;
+  color: #000000;
+  font-size: 12px;
+  padding: 7px 2px 0;
+  font-weight: bold;
+  float: left;
+}
+
+#header .breadcrumbs ul.crumbs li.home{
+  padding: 0 2px;
+}
+
+#header .breadcrumbs ul.crumbs li a{
+  color: #000000;
+}
+
+#header .breadcrumbs ul.crumbs li a:hover{
+  color: #2361A1;
+}
+
+#header .breadcrumbs ul.crumbs li.home a{
+  background: url(images/breadcrumb-home.png) no-repeat left top;
+  padding-left: 34px;
+  height: 31px;
+  padding-top: 7px;
+  border: none;
+  display: block;
+}
+
+#header .breadcrumbs h1{
+  font-family: Georgia, serif;
+  font-size: 32px;
+  color: black;
+  position: absolute;
+  top: 85px;
+  left: 0;
+}
+
+#header ul.share-links{
+  display: block;
+  position: relative;
+  float: right;
+}
+
+#header ul.share-links li{
+  list-style: none;
+  float: left;
+}
+
+/************************************* content styles */
+#content_box{
+  width: 925px;
+  float: left;
+/*  margin: 0 0 0 150px;*/
+  clear: none;
+  z-index: 5;
+  position: relative;
+}
+
+#content-wrapper{
+  background-color: #FFFFFF;
+  float: left;
+  margin-bottom: -15px;
+  padding-bottom: 25px;
+  position: relative;
+}
+
+#content{
+  width: 625px;
+  padding: 0 50px;
+}
+
+#content .post_box {
+  padding-top: 20px;
+}
+
+/* hiding page title since it appears in the header */
+#content .headline_area{
+  display: none;
+}
+
+/************************************* sidebar styles */
+#sidebars{
+  width: 150px;
+  padding-top: 20px;
+  padding-right: 50px;
+}
+
+#multimedia_box {
+  padding: 0;
+}
+
+#multimedia_box ul{
+  margin-left: 20px;
+}
+
+/** hide the footer */
+#footer{
+  display: none;
+}
+
+/****** niveo slider styles */
+div.nivoSlider {
+  margin: 0 auto 30px !important;
+}
+
+.nivo-controlNav {
+  bottom: -30px;
+  left: 325px !important;
+  position: absolute;
+  right: 0 !important;
+}

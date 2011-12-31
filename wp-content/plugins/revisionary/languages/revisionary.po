@@ -1,0 +1,777 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Revisionary 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-02 14:25-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kevin Behrens <kevin@agapetry.net>\n"
+"Language-Team: agapetry <kevin@agapetry.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: E:\\www\\wp30a\\wp-content\\plugins\\revisionary\\\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext;_n;rvy_po_trigger\n"
+"X-Poedit-SearchPath-0: E:\\www\\wp30a\\wp-content\\plugins\\revisionary\n"
+"X-Poedit-SearchPath-1: E:\\www\\wp30a\\wp-content\\plugins\\revisionary\\admin\n"
+"X-Poedit-SearchPath-2: E:\\www\\wp30a\\wp-content\\plugins\\revisionary\\hardway\n"
+"X-Poedit-SearchPath-3: E:\\www\\wp30a\\wp-content\\plugins\\revisionary\\lib\n"
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/front_rvy.php:107
+#, php-format
+msgid "This Revision was Published on %s"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/front_rvy.php:112
+#, php-format
+msgid "(for publication on %s)"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/front_rvy.php:113
+msgid "Schedule this Pending Revision"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/front_rvy.php:117
+msgid "Publish this Pending Revision now."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/front_rvy.php:123
+#, php-format
+msgid "(already scheduled for publication on %s)"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/front_rvy.php:124
+msgid "Publish now."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/front_rvy.php:129
+#, php-format
+msgid "(dated %s)"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/front_rvy.php:130
+msgid "Restore this Past Revision"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/front_rvy.php:156
+msgid "Current Revision"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/revisionary.php:39
+#, php-format
+msgid "Another copy of Revisionary is already activated (version %1$s in \"%2$s\")"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/rvy_init.php:53
+msgid "Revisor"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/rvy_init.php:406
+#, php-format
+msgid "Revisionary is not compatible with Role Scoper versions prior to %1$s.  Please upgrade or deactivate %2$s Role Scoper%3$s."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/about.php:28
+msgid "unselfish, benevolent love, born of the Spirit."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/about.php:30
+msgid "Agap&eacute; discerns needs and meets them unselfishly and effectively."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/about.php:33
+#, php-format
+msgid "This WordPress plugin is part of my agap&eacute; try, a lifelong effort to love God and love people by rightly using the time and abilities He has leant me. As a husband, father, engineer, farmer and/or software developer, I have found this stewardship effort to be often fraught with contradiction. A wise and sustainable balancing of roles has seemed to elude me. Yet I want to keep trying, trusting that if God blesses and multiplies the effort, it will become agapetry, a creative arrangement motivated by benevolent love.  A fleeting childlike sketch of the beautiful %1$s chain-breaking agap&eacute;%2$s which %3$s Jesus Christ unleashed%4$s so %5$s freely%6$s and aptly on an enslaving, enslaved world."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/about.php:35
+#, php-format
+msgid "Although Role Scoper and Revisionary development was a maniacal hermit-like effort, it was only possible because of the clean and flexible %1$s WordPress code base%2$s.  My PHP programming skills grew immensely by the good examples set forth there and in plugins such as %3$s NextGen Gallery%4$s. I'm not done learning, and look forward to some real-time cooperation with these and other developers now that my all-consuming quest has reached a stable plateau."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/about.php:37
+#, php-format
+msgid "Thanks to %1$sAlberto Ramicciotti%2$s for the Italian translation.  I do try to be translator-friendly, but any untranslated captions are due to my flurry of recent additions and changes, and will no doubt be updated soon.  Now there must be someone else who wants Revisionary in their language..."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/about.php:39
+#, php-format
+msgid "Revisionary is open source software released under the %1$s General Public License (GPL)%2$s. Due to limitations, obligations and non-technical aspirations common to most human beings, I will probably never again pursue uncommissioned plugin development on the scale these plugins has required. However, I do plan to provide some free support, correct bugs which emerge and revise the plugin for future WordPress versions. If it adds value to your website or saves you time and money, you can express appreciation in several ways:"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/about.php:41
+#, php-format
+msgid "%1$s Submit technical feedback%2$s, including improvement requests."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/about.php:43
+#, php-format
+msgid "%1$s Submit a case study%2$s, explaining how these plugins help you do something excellent and praiseworthy."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/about.php:45
+#, php-format
+msgid "%1$s Localize Revisionary or Role Scoper%2$s to your own language %3$s using poEdit%4$s "
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/about.php:49
+#, php-format
+msgid "If the plugin has seriously broadened your CMS horizons, %s"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/about.php:51
+#, php-format
+msgid "If you are an established web developer, %1$s grant me your professional opinion%2$s on how this work stacks up. Might the skills, work ethic and values I express here fit into a development team near you?"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/about.php:53
+msgid "Hire or refer my services</a> to design, redesign or enhance your site - quality care at reasonable rates."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin-dashboard_rvy.php:15
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin-dashboard_rvy.php:17
+#, php-format
+msgid "Pending %1$s"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:132
+msgid "save as pending revision"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:261
+#, php-format
+msgid "%1$s Revisionary Support Forum%2$s"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:264
+#, php-format
+msgid "%1$s About Revisionary%2$s"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:277
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:80
+msgid "Revisions"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:287
+msgid "About Revisionary"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:296
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:318
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:161
+msgid "Revisionary Options"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:309
+msgid "Revisionary Option Defaults"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:309
+msgid "Revisionary Defaults"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:318
+msgid "Revisionary"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:433
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:499
+msgid "Delete"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:467
+#, php-format
+msgid "%s (revision)"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:571
+msgid "Your modification has been saved for editorial review.  If approved, it will be published on the date you specified."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:573
+msgid "Your modification has been saved for editorial review."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:576
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:742
+msgid "View it in Revisions Manager"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:580
+msgid "Go back to Submit Another revision (possibly for a different publish date)."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:587
+msgid "Sorry, an error occurred while attempting to save your modification for editorial review!"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:598
+#, php-format
+msgid "[%s] Pending Revision Notification"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:600
+#, php-format
+msgid "A pending revision to the %1$s \"%2$s\" has been submitted."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:603
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:567
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:583
+#, php-format
+msgid "It was submitted by %1$s."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:606
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:144
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:170
+msgid "Review it here: "
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:680
+msgid "Pending Revision Created"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:739
+msgid "Your modification was saved as a Scheduled Revision."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:744
+msgid "Go back to Schedule Another revision."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:749
+msgid "Scheduled Revision Created"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:759
+msgid "Return to Edit Posts"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:762
+msgid "Return to Edit Pages"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/admin_rvy.php:766
+#, php-format
+msgid "Return to Edit %s"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/agents_checklist_rvy.php:52
+msgid "Enter additional User Names or IDs (comma-separate)"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/agents_checklist_rvy.php:105
+#, php-format
+msgid "show current users (%d)"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/agents_checklist_rvy.php:105
+#, php-format
+msgid "show eligible users (%d)"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/agents_checklist_rvy.php:123
+msgid "filter:"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/agents_checklist_rvy.php:132
+msgid "select"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/agents_checklist_rvy.php:137
+msgid "unselect"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/agents_checklist_rvy.php:145
+#, php-format
+msgid "current users (%d):"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/agents_checklist_rvy.php:145
+#, php-format
+msgid "eligible users (%d):"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/filters-admin-ui-item_rvy.php:38
+msgid "Submit Revision"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/filters-admin-ui-item_rvy.php:51
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:88
+msgid "Pending Revisions"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/filters-admin-ui-item_rvy.php:52
+msgid "Publishers to Notify of Your Revision"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/filters-admin-ui-item_rvy.php:58
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:89
+msgid "Scheduled Revisions"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:75
+msgid "Features"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:75
+msgid "Option Scope"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:79
+msgid "Role Definition"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:81
+msgid "Email Notification"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:90
+msgid "Strip html tags out of difference display"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:91
+msgid "Asynchronous Publishing"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:92
+msgid "Email original Author when a Pending Revision is submitted"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:93
+msgid "Email the original Author when a Pending Revision is approved"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:94
+msgid "Email the Revisor when a Pending Revision is approved"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:95
+msgid "Email the original Author when a Scheduled Revision is published"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:96
+msgid "Email the Revisor when a Scheduled Revision is published"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:97
+msgid "Asynchronous Email Processing"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:98
+msgid "Include capabilities for all custom post types in the WordPress Revisor role"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:102
+msgid "Email designated Publishers when a Pending Revision is submitted"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:103
+msgid "Email designated Publishers when a Scheduled Revision is published"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:105
+msgid "Email Editors and Administrators when a Pending Revision is submitted"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:106
+msgid "Email Editors and Administrators when a Scheduled Revision is published"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:155
+msgid "Revisionary Site Options"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:157
+msgid "Revisionary Default Blog Options"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:159
+msgid "Revisionary Blog Options"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:167
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:492
+msgid "Update &raquo;"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:175
+msgid "These settings will be applied to all blogs."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:181
+msgid "These are the <strong>default</strong> settings for options which can be adjusted per-blog."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:213
+msgid "This page enables <strong>optional</strong> adjustment of Revisionary's features. For most installations, the default settings are fine."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:222
+#, php-format
+msgid "Note that %1$s blog-specific options%2$s may also be available."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:229
+#, php-format
+msgid "Note that %1$s site-wide options%2$s may also be available."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:272
+msgid "If a currently published post or page is edited and a future date set, the change will not be applied until the selected date."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:276
+msgid "Publish scheduled revisions asynchronously, via a secondary http request from the server.  This is normally preferable as it eliminates delay, but some servers do not support it."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:280
+msgid "Enable some users to submit a revision for an existing published post or page which they cannot otherwise edit.  Contributors can submit revisions to their own published content, and users who have the edit_others_ capability (but not edit_published_) can submit revisions to other user's content.<br /><br />These Pending Revisions are listed alongside regular pending content, but link to a Revisions management form.  There the pending revision can be viewed, compared to other revisions, and approved or deleted by qualified editors.  If the submitter set a future publish date, approval schedules delayed publication of the revised content."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:300
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:354
+msgid "select recipients"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:309
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:327
+msgid "Never"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:309
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:327
+msgid "By default"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:309
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:327
+msgid "Always"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:367
+msgid "Send all revision notification emails asynchronously, via a secondary http request from the server."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:376
+msgid "Note: \"by default\" means Pending Revision creators can customize email notification recipients before submitting.  Eligibile \"Publisher\" email recipients are members of the Pending Revision Monitors group who <strong>also</strong> have the ability to publish the revision."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:378
+#, php-format
+msgid "Note: \"by default\" means Pending Revision creators can customize email notification recipients before submitting.  For more flexibility in moderation and notification, install the %1$s Role Scoper%2$s plugin."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:407
+msgid "Specify which Revisionary Options should be applied site-wide."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:414
+#, php-format
+msgid "sitewide control of \"%s\""
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:419
+msgid "Selected options will be controlled site-wide via <strong>Site Admin > Role Options</strong>; unselected options can be set per-blog via <strong>Roles > Options</strong>"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:496
+msgid "All settings in this form (including those on unselected tabs) will be reset to DEFAULTS.  Are you sure?"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/options.php:501
+msgid "Revert to Defaults"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:133
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:163
+#, php-format
+msgid "[%s] Revision Approval Notice"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:135
+#, php-format
+msgid "A revision to your %1$s \"%2$s\" has been approved."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:138
+#, php-format
+msgid "The submitter was %1$s."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:142
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:168
+#, php-format
+msgid "It will be published on %s"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:146
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:172
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:555
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:570
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:586
+msgid "View it online: "
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:165
+#, php-format
+msgid "The revision you submitted for the %1$s \"%2$s\" has been approved."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:550
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:562
+#, php-format
+msgid "[%s] Scheduled Revision Publication Notice"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:552
+#, php-format
+msgid "The scheduled revision you submitted for the %1$s \"%2$s\" has been published."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:564
+#, php-format
+msgid "A scheduled revision to your %1$s \"%2$s\" has been published."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:578
+#, php-format
+msgid "[%s] Scheduled Revision Publication"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-action_rvy.php:580
+#, php-format
+msgid "A scheduled revision to the %1$s \"%2$s\" has been published."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:224
+#, php-format
+msgid "%1$s (Current Revision)"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:228
+#, php-format
+msgid "%1$s (Autosave)"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:317
+msgid "The revision will be deleted. Are you sure?"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:376
+msgid "Unschedule"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:451
+msgid "Compare Selected HTML"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:470
+msgid "Modified Date (click to view/restore)"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:473
+msgid "Modified Date (click to view/approve)"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:476
+msgid "Modified Date (click to view/publish)"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:480
+msgid "Publish Date"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:483
+msgid "Actions"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:498
+msgid "Bulk Actions"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:501
+msgid "Apply"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:540
+msgid "Date as:"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:541
+msgid "Schedule for:"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:542
+msgid "Published on:"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:543
+msgid "Privately Published:"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:544
+msgid "Published:"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revision-ui_rvy.php:545
+msgid "Unsaved Date Selection:"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:20
+msgid "<strong>Note:</strong> For visual display of revisions, add the following code to foliopress-wysiwyg.php:<br />&nbsp;&nbsp;if ( strpos( $_SERVER['REQUEST_URI'], 'admin.php?page=rvy-revisions' ) ) return;"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:53
+msgid "No revision specified."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:58
+msgid "Past"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:99
+#, php-format
+msgid "%1$s Revisions for &#8220;%2$s&#8221;"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:160
+#, php-format
+msgid "Revision of &#8220;%1$s&#8221;"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:162
+#, php-format
+msgid "Past Revision of &#8220;%1$s&#8221;"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:165
+#, php-format
+msgid "Pending Revision of &#8220;%1$s&#8221;"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:168
+#, php-format
+msgid "Scheduled Revision of &#8220;%1$s&#8221;"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:176
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:183
+msgid "Publish Now"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:181
+msgid "Schedule Now"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:189
+msgid "Restore Now"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:206
+#, php-format
+msgid "&#8220;%1$s&#8221; (Current Revision)"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:224
+msgid "The requested revision does not exist."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:263
+msgid "The revision was deleted."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:266
+#, php-format
+msgid "%s revision was deleted"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:269
+msgid "The revision was updated."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:272
+msgid "The revision was restored."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:275
+msgid "The revision was scheduled for publication."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:278
+msgid "The revision was published."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:282
+msgid "To delete the revision, click the link below."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:284
+msgid "You do not have permission to delete that revision."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:287
+msgid "The revision was unscheduled."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:306
+#, php-format
+msgid "Published on: <strong>%1$s</strong>"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:308
+#, php-format
+msgid "Scheduled for: <strong>%1$s</strong>"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:311
+#, php-format
+msgid "Requested Publish Date: <strong>%1$s</strong>"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:313
+msgid "Requested Publish Date: <strong>Immediate</strong>"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:315
+#, php-format
+msgid "Modified on: <strong>%1$s</strong>"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:416
+#, php-format
+msgid "Older: modified %s"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:418
+#, php-format
+msgid "Newer: modified %s"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:472
+msgid "These revisions are identical."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:504
+msgid "Past Revisions"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:515
+#, php-format
+msgid "%1$s <span class=\"count\"> (%2$s)</span>"
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/admin/revisions.php:532
+#, php-format
+msgid "no %s revisions available."
+msgstr ""
+
+#: E:\www\wp30a\wp-content\plugins\revisionary/lib/debug.php:182
+#, php-format
+msgid "%1$s queries in %2$s seconds. %3$s MB used."
+msgstr ""
+

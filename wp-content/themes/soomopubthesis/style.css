@@ -1,0 +1,10 @@
+/* Theme Name: Soomo Publishing Thesis Child Theme 
+Theme URI: http://soomopublishing.com/ 
+Description: Soomo Publishing Site Child Theme for Thesis
+Author: Jeremy Ferguson 
+Author URI: http://ninjadesk.com/ 
+Template: thesis_181
+Version: 1.8.1
+*/ 
+
+@import url("../thesis_181/style.css");
